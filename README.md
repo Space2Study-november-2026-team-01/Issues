@@ -1,13 +1,13 @@
 # Issues
 
-Цей репозиторій не містить коду. Він існує лише для трекінгу задач команди **Space2Study** (листопад 2026, team 01).
+Home base for the **Space2Study** team (November 2026, team 01).
 
-Уся робота ведеться через [Issues](https://github.com/Space2Study-november-2026-team-01/Issues/issues): баги, фічі, питання та обговорення.
+No code lives here. This repo is where the team tracks work: bugs, features, questions, and discussions. Everything happens in [Issues](https://github.com/Space2Study-november-2026-team-01/Issues/issues).
 
-## Як користуватися
+## How to open an issue
 
-1. Створіть issue з коротким заголовком і описом.
-2. Додайте контекст: що очікуєте, що відбувається зараз, кроки відтворення (для багів).
-3. Призначте відповідального і мітки, якщо вони вже є.
+1. Give it a short title and a clear description.
+2. Add context: what you expected, what actually happens, and steps to reproduce (for bugs).
+3. Assign an owner and add labels when they exist.
 
-Код, пул-реквести і коміти сюди не належать — їхнє місце в репозиторіях проєкту.
+Code, pull requests, and commits belong in the project repositories.
